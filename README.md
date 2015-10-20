@@ -1,5 +1,5 @@
 # WebappInstallDetector
-Detects if an Webapp has been installed by either the native iOS method or by observing the viewport on Android.
+Detects if a Webapp has been installed by either the native iOS method or by observing the viewport on Android.
 
 ##Usage
 
